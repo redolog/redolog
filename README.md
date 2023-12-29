@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @redolog aka DragonSong on Internet.
-- :smiley_cat: My avatar is my gf's cat, and her name is ADu(阿杜).
 - 👀 I’m interested in Backend / Storage system/ Distributed architecture.
 - 🌱 I’m currently learning algorithms on LeetCode. [algorithm-java](https://github.com/redolog/algorithm-java) is my repo for algorithm oj exercise.
 - :construction_worker:	 I’m currently working in [ke.com](https://www.ke.com/) and living in Beijing, China.
